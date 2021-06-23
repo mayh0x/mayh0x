@@ -1,6 +1,6 @@
 # About me
 
-## Yo! 👋
+### Yo! 👋
 
 I'm May! ✨
 
