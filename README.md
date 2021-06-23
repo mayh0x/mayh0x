@@ -4,7 +4,10 @@
 
 I'm May! ✨
 
-I'm a recent graduate student in Computer Science and I'm looking to learn more about programming, looking to start on the front end.
+- 🖥 I'm a Computer Science student at at Federal University of Ceará.
+- 👨‍💻 I'm looking to learn more about programming and understand new things.
+- 🚀 I'm new to the frontend and i want to learn more and more about it.
+- 💖 Hobbies: play any game with friends, watch, listen to music and play ukulele.
 
 <!--
 **mayh0x/mayh0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
