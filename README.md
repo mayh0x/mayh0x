@@ -4,6 +4,8 @@
 
 I'm May! ✨
 
+I'm a recent graduate student in Computer Science and I'm looking to learn more about programming, looking to start on the front end.
+
 <!--
 **mayh0x/mayh0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
